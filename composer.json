@@ -1,17 +1,17 @@
 {
-    "name": "bryan/seat-test",
+    "name": "bbergen/seat-test",
     "description": "Test Plugin for SeAT",
     "type": "seat-plugin",
     "license": "GPL-2.0-only",
     "authors": [
         {
-            "name": "bryan"
+            "name": "bbergen"
         }
     ],
     "minimum-stability": "alpha",
     "autoload": {
         "psr-4": {
-            "Bryan\\Seat\\Test\\": "src/"
+            "Bbergen\\Seat\\Test\\": "src/"
         }
     },
     "require": {

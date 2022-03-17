@@ -1,6 +1,6 @@
 <?php
 
-namespace Bryan\Seat\Test\Http\Contrllers;
+namespace Bbergen\Seat\Test\Http\Contrllers;
 
 use Seat\Web\Http\Controllers\Controller;
 

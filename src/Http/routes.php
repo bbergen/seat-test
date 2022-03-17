@@ -1,7 +1,7 @@
 <?php
 
 Route::group([
-    'namespace' => 'Bryan\Seat\Test\Http\Controllers',
+    'namespace' => 'Bbergen\Seat\Test\Http\Controllers',
     // 'middleware' => ['web'],
     'prefix' => 'test'
 ], function () {

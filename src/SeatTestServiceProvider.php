@@ -1,6 +1,6 @@
 <?php
 
-namespace Bryan\Seat\Test;
+namespace Bbergen\Seat\Test;
 
 use Seat\Services\AbstractSeatPlugin;
 
@@ -44,6 +44,6 @@ class SeatTestServiceProvider extends AbstractSeatPlugin
 
     public function getPackagistVendorName(): string
     {
-        return 'bryan';
+        return 'bbergen';
     }
 }
