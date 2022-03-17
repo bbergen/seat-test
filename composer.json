@@ -1,0 +1,22 @@
+{
+    "name": "bryan/seat-test",
+    "description": "Test Plugin for SeAT",
+    "type": "seat-plugin",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "bryan"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "autoload": {
+        "psr-4": {
+            "Bryan\\Seat\\Test\\": "src/"
+        }
+    },
+    "require": {
+        "eveseat/services": "^4.0",
+        "eveseat/eveapi": "^4.0",
+        "eveseat/web": "^4.0"
+    }
+}
